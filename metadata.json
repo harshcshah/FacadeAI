@@ -1,0 +1,8 @@
+{
+  "name": "FaçadeCraft - AI Exterior House Renovation \u0026 Cost Estimator",
+  "description": "AI-powered residential exterior redesign, structural mapping, material visualization, surface area calculation, and contractor-grade cost estimation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
